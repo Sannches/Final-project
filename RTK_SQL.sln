@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTK_SQL", "AniMate\RTK_SQL.csproj", "{E2287C29-759E-4787-BD36-CAE9E495EC31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2287C29-759E-4787-BD36-CAE9E495EC31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2287C29-759E-4787-BD36-CAE9E495EC31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2287C29-759E-4787-BD36-CAE9E495EC31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2287C29-759E-4787-BD36-CAE9E495EC31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {485C1A50-B264-4D2A-AABE-3ABDC2DCAE5E}
+	EndGlobalSection
+EndGlobal

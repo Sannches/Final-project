@@ -1,0 +1,44 @@
+﻿<Window x:Class="AniMate.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AniMate"
+        mc:Ignorable="d"
+        Title="Авторизация оператора" Height="284.644" Padding="0" Margin="0" BorderThickness="0" Width="389.702" MinWidth="380">
+    <Grid Margin="0,0,0,10">
+        <Button x:Name="bLoginOK" Content="OK" HorizontalAlignment="Left" Margin="324,50,0,0" VerticalAlignment="Top" Width="30" Click="bLoginOK_Click" RenderTransformOrigin="3.687,5.125" Height="28" FontWeight="Bold" Foreground="#FFF72D2D">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <TextBox x:Name="TB1" HorizontalAlignment="Left" Height="24" Margin="19,98,0,0" Text="Авторизированы: Круталевич А.И., Закурдаев Д.С." VerticalAlignment="Top" Width="63" Background="#FFEE8A8A" FontSize="14"/>
+        <Label Content="Введите ФИО оператора АПЛС:" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top" Width="184" Height="30" BorderThickness="0"/>
+        <TextBox x:Name="TbNom" HorizontalAlignment="Left" Height="27" Margin="199,50,0,0" VerticalAlignment="Top" Width="119" MaxLength="20" ToolTip="номер в формате; +375ХХ111222333" Padding="0,2,0,0" Text="Круталевич А.И.">
+            <TextBox.Effect>
+                <DropShadowEffect/>
+            </TextBox.Effect>
+        </TextBox>
+        <Label x:Name="LabPass" Content="Введите пароль:" HorizontalAlignment="Left" Margin="10,129,0,0" VerticalAlignment="Top" Width="101" Height="30" BorderThickness="0"/>
+        <TextBox x:Name="TbPass" HorizontalAlignment="Left" Height="27" Margin="116,132,0,0" VerticalAlignment="Top" Width="109" MaxLength="13" ToolTip="пароль не менее 6-ти знаков" Padding="0,2,0,0" Text="123456">
+            <TextBox.Effect>
+                <DropShadowEffect/>
+            </TextBox.Effect>
+        </TextBox>
+        <Button x:Name="bPassOK" Content="OK" HorizontalAlignment="Left" Margin="233,132,0,0" VerticalAlignment="Top" Width="30" Click="bPassOK_Click" RenderTransformOrigin="3.687,5.125" Height="28" FontWeight="Bold" Foreground="#FFF72D2D">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Label x:Name="LabPass1" Content="( не менее 6 знаков )" HorizontalAlignment="Left" Margin="10,146,0,0" VerticalAlignment="Top" Width="89" Height="24" BorderThickness="0" FontSize="8"/>
+        <TextBox x:Name="TB2" HorizontalAlignment="Left" Height="16" Margin="33,209,0,0" VerticalAlignment="Top" Width="7" Background="#FF0E0EFF" FontSize="14"/>
+        <Rectangle x:Name="Rec1" HorizontalAlignment="Left" Height="16" Margin="33,209,0,0" Stroke="Black" VerticalAlignment="Top" Width="321">
+            <Rectangle.Fill>
+                <SolidColorBrush Color="#FFF7F5F5" Opacity="0"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Label x:Name="Lab3" Content="Идет проверка данных ..." HorizontalAlignment="Left" Margin="29,180,0,0" VerticalAlignment="Top" Height="29"/>
+        <TextBlock HorizontalAlignment="Left" Margin="19,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="344" Height="25" FontWeight="Bold" FontSize="18" Foreground="#FF0017FF"><Run Text="Программа симуляции сварки РТК"/></TextBlock>
+
+    </Grid>
+</Window>

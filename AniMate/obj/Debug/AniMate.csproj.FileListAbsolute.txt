@@ -1,0 +1,144 @@
+C:\Users\askor\source\repos\AniMate\AniMate\bin\Debug\AniMate.exe.config
+C:\Users\askor\source\repos\AniMate\AniMate\bin\Debug\AniMate.exe
+C:\Users\askor\source\repos\AniMate\AniMate\bin\Debug\AniMate.pdb
+C:\Users\askor\source\repos\AniMate\AniMate\obj\Debug\AniMate.csprojAssemblyReference.cache
+C:\Users\askor\source\repos\AniMate\AniMate\obj\Debug\MainWindow.g.cs
+C:\Users\askor\source\repos\AniMate\AniMate\obj\Debug\App.g.cs
+C:\Users\askor\source\repos\AniMate\AniMate\obj\Debug\AniMate_MarkupCompile.cache
+C:\Users\askor\source\repos\AniMate\AniMate\obj\Debug\AniMate_MarkupCompile.lref
+C:\Users\askor\source\repos\AniMate\AniMate\obj\Debug\MainWindow.baml
+C:\Users\askor\source\repos\AniMate\AniMate\obj\Debug\AniMate.g.resources
+C:\Users\askor\source\repos\AniMate\AniMate\obj\Debug\AniMate.Properties.Resources.resources
+C:\Users\askor\source\repos\AniMate\AniMate\obj\Debug\AniMate.csproj.GenerateResource.cache
+C:\Users\askor\source\repos\AniMate\AniMate\obj\Debug\AniMate.csproj.CoreCompileInputs.cache
+C:\Users\askor\source\repos\AniMate\AniMate\obj\Debug\AniMate.exe
+C:\Users\askor\source\repos\AniMate\AniMate\obj\Debug\AniMate.pdb
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\AniMate\bin\Debug\AniMate.exe.config
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\AniMate\bin\Debug\AniMate.exe
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\AniMate\bin\Debug\AniMate.pdb
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\AniMate\obj\Debug\AniMate.csprojAssemblyReference.cache
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\AniMate\obj\Debug\MainWindow.g.cs
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\AniMate\obj\Debug\App.g.cs
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\AniMate\obj\Debug\AniMate_MarkupCompile.cache
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\AniMate\obj\Debug\AniMate_MarkupCompile.lref
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\AniMate\obj\Debug\MainWindow.baml
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\AniMate\obj\Debug\AniMate.g.resources
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\AniMate\obj\Debug\AniMate.Properties.Resources.resources
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\AniMate\obj\Debug\AniMate.csproj.GenerateResource.cache
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\AniMate\obj\Debug\AniMate.csproj.CoreCompileInputs.cache
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\AniMate\obj\Debug\AniMate.exe
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\AniMate\obj\Debug\AniMate.pdb
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\bin\Debug\AniMate.exe.config
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\bin\Debug\AniMate.exe
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\bin\Debug\AniMate.pdb
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\obj\Debug\AniMate.csprojAssemblyReference.cache
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\obj\Debug\MainWindow.g.cs
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\obj\Debug\App.g.cs
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\obj\Debug\AniMate_MarkupCompile.cache
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\obj\Debug\AniMate_MarkupCompile.lref
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\obj\Debug\MainWindow.baml
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\obj\Debug\AniMate.g.resources
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\obj\Debug\AniMate.Properties.Resources.resources
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\obj\Debug\AniMate.csproj.GenerateResource.cache
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\obj\Debug\AniMate.csproj.CoreCompileInputs.cache
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\obj\Debug\AniMate.exe
+C:\Users\skorbilin_a\Downloads\AniMate\AniMate\obj\Debug\AniMate.pdb
+d:\C# Projects\210402\1. AniMate\AniMate\bin\Debug\AniMate.exe.config
+d:\C# Projects\210402\1. AniMate\AniMate\bin\Debug\AniMate.exe
+d:\C# Projects\210402\1. AniMate\AniMate\bin\Debug\AniMate.pdb
+d:\C# Projects\210402\1. AniMate\AniMate\obj\Debug\AniMate.csprojAssemblyReference.cache
+d:\C# Projects\210402\1. AniMate\AniMate\obj\Debug\MainWindow.g.cs
+d:\C# Projects\210402\1. AniMate\AniMate\obj\Debug\App.g.cs
+d:\C# Projects\210402\1. AniMate\AniMate\obj\Debug\AniMate_MarkupCompile.cache
+d:\C# Projects\210402\1. AniMate\AniMate\obj\Debug\AniMate_MarkupCompile.lref
+d:\C# Projects\210402\1. AniMate\AniMate\obj\Debug\MainWindow.baml
+d:\C# Projects\210402\1. AniMate\AniMate\obj\Debug\AniMate.g.resources
+d:\C# Projects\210402\1. AniMate\AniMate\obj\Debug\AniMate.Properties.Resources.resources
+d:\C# Projects\210402\1. AniMate\AniMate\obj\Debug\AniMate.csproj.GenerateResource.cache
+d:\C# Projects\210402\1. AniMate\AniMate\obj\Debug\AniMate.csproj.CoreCompileInputs.cache
+d:\C# Projects\210402\1. AniMate\AniMate\obj\Debug\AniMate.exe
+d:\C# Projects\210402\1. AniMate\AniMate\obj\Debug\AniMate.pdb
+D:\C# Projects\210402\ДЗ_210402\AniMate\bin\Debug\AniMate.exe.config
+D:\C# Projects\210402\ДЗ_210402\AniMate\bin\Debug\AniMate.exe
+D:\C# Projects\210402\ДЗ_210402\AniMate\bin\Debug\AniMate.pdb
+D:\C# Projects\210402\ДЗ_210402\AniMate\obj\Debug\AniMate.csprojAssemblyReference.cache
+D:\C# Projects\210402\ДЗ_210402\AniMate\obj\Debug\MainWindow.g.cs
+D:\C# Projects\210402\ДЗ_210402\AniMate\obj\Debug\App.g.cs
+D:\C# Projects\210402\ДЗ_210402\AniMate\obj\Debug\AniMate_MarkupCompile.cache
+D:\C# Projects\210402\ДЗ_210402\AniMate\obj\Debug\AniMate_MarkupCompile.lref
+D:\C# Projects\210402\ДЗ_210402\AniMate\obj\Debug\MainWindow.baml
+D:\C# Projects\210402\ДЗ_210402\AniMate\obj\Debug\AniMate.g.resources
+D:\C# Projects\210402\ДЗ_210402\AniMate\obj\Debug\AniMate.Properties.Resources.resources
+D:\C# Projects\210402\ДЗ_210402\AniMate\obj\Debug\AniMate.csproj.GenerateResource.cache
+D:\C# Projects\210402\ДЗ_210402\AniMate\obj\Debug\AniMate.csproj.CoreCompileInputs.cache
+D:\C# Projects\210402\ДЗ_210402\AniMate\obj\Debug\AniMate.exe
+D:\C# Projects\210402\ДЗ_210402\AniMate\obj\Debug\AniMate.pdb
+d:\C# Projects\210409\ДЗ_210409\AniMate\bin\Debug\AniMate.exe.config
+d:\C# Projects\210409\ДЗ_210409\AniMate\bin\Debug\AniMate.exe
+d:\C# Projects\210409\ДЗ_210409\AniMate\bin\Debug\AniMate.pdb
+d:\C# Projects\210409\ДЗ_210409\AniMate\obj\Debug\AniMate.csprojAssemblyReference.cache
+d:\C# Projects\210409\ДЗ_210409\AniMate\obj\Debug\MainWindow.g.cs
+d:\C# Projects\210409\ДЗ_210409\AniMate\obj\Debug\App.g.cs
+d:\C# Projects\210409\ДЗ_210409\AniMate\obj\Debug\AniMate_MarkupCompile.cache
+d:\C# Projects\210409\ДЗ_210409\AniMate\obj\Debug\AniMate_MarkupCompile.lref
+d:\C# Projects\210409\ДЗ_210409\AniMate\obj\Debug\MainWindow.baml
+d:\C# Projects\210409\ДЗ_210409\AniMate\obj\Debug\AniMate.g.resources
+d:\C# Projects\210409\ДЗ_210409\AniMate\obj\Debug\AniMate.Properties.Resources.resources
+d:\C# Projects\210409\ДЗ_210409\AniMate\obj\Debug\AniMate.csproj.GenerateResource.cache
+d:\C# Projects\210409\ДЗ_210409\AniMate\obj\Debug\AniMate.csproj.CoreCompileInputs.cache
+d:\C# Projects\210409\ДЗ_210409\AniMate\obj\Debug\AniMate.exe
+d:\C# Projects\210409\ДЗ_210409\AniMate\obj\Debug\AniMate.pdb
+d:\C# Projects\210413\ДЗ_210413\AniMate\bin\Debug\AniMate.exe.config
+d:\C# Projects\210413\ДЗ_210413\AniMate\bin\Debug\AniMate.exe
+d:\C# Projects\210413\ДЗ_210413\AniMate\bin\Debug\AniMate.pdb
+d:\C# Projects\210413\ДЗ_210413\AniMate\obj\Debug\AniMate.csprojAssemblyReference.cache
+d:\C# Projects\210413\ДЗ_210413\AniMate\obj\Debug\MainWindow.g.cs
+d:\C# Projects\210413\ДЗ_210413\AniMate\obj\Debug\App.g.cs
+d:\C# Projects\210413\ДЗ_210413\AniMate\obj\Debug\AniMate_MarkupCompile.cache
+d:\C# Projects\210413\ДЗ_210413\AniMate\obj\Debug\AniMate_MarkupCompile.lref
+d:\C# Projects\210413\ДЗ_210413\AniMate\obj\Debug\MainWindow.baml
+d:\C# Projects\210413\ДЗ_210413\AniMate\obj\Debug\AniMate.g.resources
+d:\C# Projects\210413\ДЗ_210413\AniMate\obj\Debug\AniMate.Properties.Resources.resources
+d:\C# Projects\210413\ДЗ_210413\AniMate\obj\Debug\AniMate.csproj.GenerateResource.cache
+d:\C# Projects\210413\ДЗ_210413\AniMate\obj\Debug\AniMate.csproj.CoreCompileInputs.cache
+d:\C# Projects\210413\ДЗ_210413\AniMate\obj\Debug\AniMate.exe
+d:\C# Projects\210413\ДЗ_210413\AniMate\obj\Debug\AniMate.pdb
+d:\C# Projects\210413\ДЗ_210413\AniMate\obj\Debug\AniMate.Form1.resources
+d:\C# Projects\210413\ДЗ_210413\AniMate\obj\Debug\AniMate.Form2.resources
+d:\C# Projects\210423\ДЗ_210423\AniMate\bin\Debug\AniMate.exe.config
+d:\C# Projects\210423\ДЗ_210423\AniMate\bin\Debug\AniMate.exe
+d:\C# Projects\210423\ДЗ_210423\AniMate\bin\Debug\AniMate.pdb
+d:\C# Projects\210423\ДЗ_210423\AniMate\obj\Debug\AniMate.csprojAssemblyReference.cache
+d:\C# Projects\210423\ДЗ_210423\AniMate\obj\Debug\MainWindow.g.cs
+d:\C# Projects\210423\ДЗ_210423\AniMate\obj\Debug\App.g.cs
+d:\C# Projects\210423\ДЗ_210423\AniMate\obj\Debug\AniMate_MarkupCompile.cache
+d:\C# Projects\210423\ДЗ_210423\AniMate\obj\Debug\AniMate_MarkupCompile.lref
+d:\C# Projects\210423\ДЗ_210423\AniMate\obj\Debug\MainWindow.baml
+d:\C# Projects\210423\ДЗ_210423\AniMate\obj\Debug\AniMate.g.resources
+d:\C# Projects\210423\ДЗ_210423\AniMate\obj\Debug\AniMate.Form1.resources
+d:\C# Projects\210423\ДЗ_210423\AniMate\obj\Debug\AniMate.Form2.resources
+d:\C# Projects\210423\ДЗ_210423\AniMate\obj\Debug\AniMate.Properties.Resources.resources
+d:\C# Projects\210423\ДЗ_210423\AniMate\obj\Debug\AniMate.csproj.GenerateResource.cache
+d:\C# Projects\210423\ДЗ_210423\AniMate\obj\Debug\AniMate.csproj.CoreCompileInputs.cache
+d:\C# Projects\210423\ДЗ_210423\AniMate\obj\Debug\AniMate.exe
+d:\C# Projects\210423\ДЗ_210423\AniMate\obj\Debug\AniMate.pdb
+d:\C# Projects\210528 РТК\AniMate\bin\Debug\AniMate.exe.config
+d:\C# Projects\210528 РТК\AniMate\bin\Debug\AniMate.exe
+d:\C# Projects\210528 РТК\AniMate\bin\Debug\AniMate.pdb
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\AniMate.csprojAssemblyReference.cache
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\MainWindow.g.cs
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\App.g.cs
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\AniMate_MarkupCompile.cache
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\AniMate_MarkupCompile.lref
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\MainWindow.baml
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\AniMate.g.resources
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\AniMate.Form1.resources
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\AniMate.Form2.resources
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\AniMate.Properties.Resources.resources
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\AniMate.csproj.GenerateResource.cache
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\AniMate.csproj.CoreCompileInputs.cache
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\AniMate.exe
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\AniMate.pdb
+d:\C# Projects\210528 РТК\AniMate\bin\Debug\RTK.mdf
+d:\C# Projects\210528 РТК\AniMate\bin\Debug\RTK_log.ldf
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\AniMate_Content.g.cs

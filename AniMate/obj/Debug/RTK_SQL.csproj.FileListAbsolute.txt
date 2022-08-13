@@ -1,0 +1,103 @@
+d:\C# Projects\210528 РТК\AniMate\bin\Debug\RTK.mdf
+d:\C# Projects\210528 РТК\AniMate\bin\Debug\RTK_log.ldf
+d:\C# Projects\210528 РТК\AniMate\bin\Debug\AniMate.exe.config
+d:\C# Projects\210528 РТК\AniMate\bin\Debug\AniMate.exe
+d:\C# Projects\210528 РТК\AniMate\bin\Debug\AniMate.pdb
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\RTK_SQL.csprojAssemblyReference.cache
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\MainWindow.baml
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\MainWindow.g.cs
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\App.g.cs
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\AniMate_Content.g.cs
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\AniMate_MarkupCompile.cache
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\AniMate_MarkupCompile.lref
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\AniMate.g.resources
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\AniMate.Form1.resources
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\AniMate.Form2.resources
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\AniMate.Properties.Resources.resources
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\RTK_SQL.csproj.GenerateResource.cache
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\RTK_SQL.csproj.CoreCompileInputs.cache
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\AniMate.exe
+d:\C# Projects\210528 РТК\AniMate\obj\Debug\AniMate.pdb
+d:\C# Projects\210528 РТК\RTK_SQL\bin\Debug\RTK.mdf
+d:\C# Projects\210528 РТК\RTK_SQL\bin\Debug\RTK_log.ldf
+d:\C# Projects\210528 РТК\RTK_SQL\bin\Debug\AniMate.exe.config
+d:\C# Projects\210528 РТК\RTK_SQL\bin\Debug\AniMate.exe
+d:\C# Projects\210528 РТК\RTK_SQL\bin\Debug\AniMate.pdb
+d:\C# Projects\210528 РТК\RTK_SQL\obj\Debug\RTK_SQL.csprojAssemblyReference.cache
+d:\C# Projects\210528 РТК\RTK_SQL\obj\Debug\MainWindow.g.cs
+d:\C# Projects\210528 РТК\RTK_SQL\obj\Debug\App.g.cs
+d:\C# Projects\210528 РТК\RTK_SQL\obj\Debug\AniMate_Content.g.cs
+d:\C# Projects\210528 РТК\RTK_SQL\obj\Debug\AniMate_MarkupCompile.cache
+d:\C# Projects\210528 РТК\RTK_SQL\obj\Debug\AniMate_MarkupCompile.lref
+d:\C# Projects\210528 РТК\RTK_SQL\obj\Debug\MainWindow.baml
+d:\C# Projects\210528 РТК\RTK_SQL\obj\Debug\AniMate.g.resources
+d:\C# Projects\210528 РТК\RTK_SQL\obj\Debug\AniMate.Form1.resources
+d:\C# Projects\210528 РТК\RTK_SQL\obj\Debug\AniMate.Form2.resources
+d:\C# Projects\210528 РТК\RTK_SQL\obj\Debug\AniMate.Properties.Resources.resources
+d:\C# Projects\210528 РТК\RTK_SQL\obj\Debug\RTK_SQL.csproj.GenerateResource.cache
+d:\C# Projects\210528 РТК\RTK_SQL\obj\Debug\RTK_SQL.csproj.CoreCompileInputs.cache
+d:\C# Projects\210528 РТК\RTK_SQL\obj\Debug\AniMate.exe
+d:\C# Projects\210528 РТК\RTK_SQL\obj\Debug\AniMate.pdb
+d:\C# Projects\210604\AniMate\bin\Debug\RTK.mdf
+d:\C# Projects\210604\AniMate\bin\Debug\RTK_log.ldf
+d:\C# Projects\210604\AniMate\bin\Debug\AniMate.exe.config
+d:\C# Projects\210604\AniMate\bin\Debug\AniMate.exe
+d:\C# Projects\210604\AniMate\bin\Debug\AniMate.pdb
+d:\C# Projects\210604\AniMate\obj\Debug\RTK_SQL.csprojAssemblyReference.cache
+d:\C# Projects\210604\AniMate\obj\Debug\MainWindow.g.cs
+d:\C# Projects\210604\AniMate\obj\Debug\App.g.cs
+d:\C# Projects\210604\AniMate\obj\Debug\AniMate_Content.g.cs
+d:\C# Projects\210604\AniMate\obj\Debug\AniMate_MarkupCompile.cache
+d:\C# Projects\210604\AniMate\obj\Debug\AniMate_MarkupCompile.lref
+d:\C# Projects\210604\AniMate\obj\Debug\MainWindow.baml
+d:\C# Projects\210604\AniMate\obj\Debug\AniMate.g.resources
+d:\C# Projects\210604\AniMate\obj\Debug\AniMate.Form1.resources
+d:\C# Projects\210604\AniMate\obj\Debug\AniMate.Form2.resources
+d:\C# Projects\210604\AniMate\obj\Debug\AniMate.Properties.Resources.resources
+d:\C# Projects\210604\AniMate\obj\Debug\RTK_SQL.csproj.GenerateResource.cache
+d:\C# Projects\210604\AniMate\obj\Debug\RTK_SQL.csproj.CoreCompileInputs.cache
+d:\C# Projects\210604\AniMate\obj\Debug\AniMate.exe
+d:\C# Projects\210604\AniMate\obj\Debug\AniMate.pdb
+d:\C# Projects\210604\AniMate\obj\Debug\AniMate.Form3.resources
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\210604\AniMate\bin\Debug\RTK.mdf
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\210604\AniMate\bin\Debug\RTK_log.ldf
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\210604\AniMate\bin\Debug\AniMate.exe.config
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\210604\AniMate\bin\Debug\AniMate.exe
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\210604\AniMate\bin\Debug\AniMate.pdb
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\210604\AniMate\obj\Debug\RTK_SQL.csproj.AssemblyReference.cache
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\210604\AniMate\obj\Debug\MainWindow.g.cs
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\210604\AniMate\obj\Debug\App.g.cs
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\210604\AniMate\obj\Debug\AniMate_Content.g.cs
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\210604\AniMate\obj\Debug\AniMate_MarkupCompile.cache
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\210604\AniMate\obj\Debug\AniMate_MarkupCompile.lref
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\210604\AniMate\obj\Debug\MainWindow.baml
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\210604\AniMate\obj\Debug\AniMate.g.resources
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\210604\AniMate\obj\Debug\AniMate.Form1.resources
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\210604\AniMate\obj\Debug\AniMate.Form2.resources
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\210604\AniMate\obj\Debug\AniMate.Form3.resources
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\210604\AniMate\obj\Debug\AniMate.Properties.Resources.resources
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\210604\AniMate\obj\Debug\RTK_SQL.csproj.GenerateResource.cache
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\210604\AniMate\obj\Debug\RTK_SQL.csproj.CoreCompileInputs.cache
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\210604\AniMate\obj\Debug\AniMate.exe
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\210604\AniMate\obj\Debug\AniMate.pdb
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\Проект_РТК\AniMate\bin\Debug\RTK.mdf
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\Проект_РТК\AniMate\bin\Debug\RTK_log.ldf
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\Проект_РТК\AniMate\bin\Debug\AniMate.exe.config
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\Проект_РТК\AniMate\bin\Debug\AniMate.exe
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\Проект_РТК\AniMate\bin\Debug\AniMate.pdb
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\Проект_РТК\AniMate\obj\Debug\RTK_SQL.csproj.AssemblyReference.cache
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\Проект_РТК\AniMate\obj\Debug\MainWindow.g.cs
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\Проект_РТК\AniMate\obj\Debug\App.g.cs
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\Проект_РТК\AniMate\obj\Debug\AniMate_Content.g.cs
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\Проект_РТК\AniMate\obj\Debug\AniMate_MarkupCompile.cache
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\Проект_РТК\AniMate\obj\Debug\AniMate_MarkupCompile.lref
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\Проект_РТК\AniMate\obj\Debug\MainWindow.baml
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\Проект_РТК\AniMate\obj\Debug\AniMate.g.resources
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\Проект_РТК\AniMate\obj\Debug\AniMate.Form1.resources
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\Проект_РТК\AniMate\obj\Debug\AniMate.Form2.resources
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\Проект_РТК\AniMate\obj\Debug\AniMate.Form3.resources
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\Проект_РТК\AniMate\obj\Debug\AniMate.Properties.Resources.resources
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\Проект_РТК\AniMate\obj\Debug\RTK_SQL.csproj.GenerateResource.cache
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\Проект_РТК\AniMate\obj\Debug\RTK_SQL.csproj.CoreCompileInputs.cache
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\Проект_РТК\AniMate\obj\Debug\AniMate.exe
+C:\Users\G3930\Desktop\ШАГ\ИТОГОВЫЙ ПРОЕКТ\210604\Проект_РТК\AniMate\obj\Debug\AniMate.pdb
